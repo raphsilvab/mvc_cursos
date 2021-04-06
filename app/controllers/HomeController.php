@@ -13,4 +13,9 @@ class HomeController extends Controller{
       $this->load("template",$data);
       # code...
    }
+   public function perfil(){
+      $data["view"] = "perfil";
+      $this->load("template",$data);
+      # code...
+   }
 }
