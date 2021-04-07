@@ -18,4 +18,14 @@ class HomeController extends Controller{
       $this->load("template",$data);
       # code...
    }
+   public function comentario(){
+      $data["view"] = "comentario";
+      $this->load("template", $data);
+      # code...
+   }
+   public function login(){
+      $data["view"] = "login";
+      $this->load("template", $data);
+      # code...
+   }
 }
