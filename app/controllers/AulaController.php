@@ -5,7 +5,7 @@ use app\core\Controller;
 class AulaController extends Controller{
     
    public function index(){           
-    $data["view"] = "aula";
+    $data["view"] = "Aula/Index";
     $this->load("template",$data);
    } 
 }

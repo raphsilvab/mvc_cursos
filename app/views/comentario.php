@@ -1,1 +1,0 @@
-<center><h1>Aqui ficam os comentários.</h1></center>

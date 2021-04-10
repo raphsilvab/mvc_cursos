@@ -11,7 +11,7 @@
                                         <p>FORMAÇÃO FRONT-END COMPLETO</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
@@ -22,7 +22,7 @@
                                         <p>FORMAÇÃO jsf prime</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
@@ -33,7 +33,7 @@
                                         <p>Projetos php completo</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
@@ -44,7 +44,7 @@
                                         <p>Start: curso profissionalizante de programação para iniciantes</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
@@ -55,7 +55,7 @@
                                         <p>FORMAÇÃO FRONT-END COMPLETO</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
@@ -66,7 +66,7 @@
                                         <p>FORMAÇÃO jsf prime</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
@@ -77,7 +77,7 @@
                                         <p>Projetos php completo</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
@@ -88,7 +88,7 @@
                                         <p>Start: curso profissionalizante de programação para iniciantes</p>
                                         <small>Desempenho <b>50%</b></small>
                                         <progress value="4" max="7"></progress>
-                                        <a href="curso.html" class="btn">Ir para o curso</a>
+                                        <a href="<?php echo URL_BASE . "curso" ?>" class="btn">Ir para o curso</a>
                                 </div>
                         </div>
                 </div>
